@@ -1,0 +1,16 @@
+{
+  "name": "GithubUtils",
+  "version": "1.0.0",
+  "description": "Set of utils for interacting with github",
+  "main": "index.js",
+  "author": "Justice Adeenze-Kangah",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "@octokit/core": "^3.1.2",
+    "bluebird": "^3.7.2",
+    "dotenv": "^8.2.0",
+    "octonode": "^0.9.5",
+    "sqlite3": "^5.0.0"
+  }
+}
